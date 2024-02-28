@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  .countdown {
+    text-align: center;
+  }
+
+  #timer {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  
